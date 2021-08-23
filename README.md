@@ -1,2 +1,2 @@
 # CUDA
- CUDA Projects
+ CUDA, multi-threaded processing and parallel programming Projects!
